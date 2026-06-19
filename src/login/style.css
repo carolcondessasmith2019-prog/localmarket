@@ -7,3 +7,6 @@
 .Logo{
     width: 200px;
 }
+.error-div{
+    display: none;
+}
