@@ -1,20 +1,20 @@
 [
     {
-        "id":1,
-        "desc":"Matheus",
-        "imagem":"../../public/",
-        "sal":10200
+        "id": 1,
+        "desc": "base rare beauty positive light tinted moisturizer",
+        "imagem": "../../public/rare base.avif",
+        "valor": 400.00
     },
-     {
-        "id":1,
-        "desc":"Bob Esponja",
-        "imagem":"../../public/",
-        "sal":10200
+      {
+        "id": 2,
+        "desc": "Positive Light Silky Touch Highlighter",
+        "imagem": "../../public/iluminador.webp",
+        "valor": 450.00
     },
-     {
-        "id":1,
-        "desc":"Bob Esponja",
-        "imagem":"../../public/",
-        "sal":10200
+      {
+        "id": 3,
+        "desc": "Rare Beauty by Selena Gomez Find Comfort Body & Hair Fragrance Mist",
+        "imagem": "../../public/11.webp",
+        "valor": 620.00
     }
 ]
